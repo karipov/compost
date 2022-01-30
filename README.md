@@ -1,34 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# <img src="public/logo.png" alt="Compost" height="40"> Compost
 
-## Getting Started
+![](https://img.shields.io/badge/built%20with-love-red) ![](https://img.shields.io/badge/license-MIT-blue)
 
-First, run the development server:
+ComPost is the first personal garden accessory that encourages users of all backgrounds to **actively engage** in a community involved with caring for plants.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+As our technology advances as a society, we tend to lose ourselves and connections in the vast emptiness of the virtual world. Our product, ComPost, is an accessory consisting of a suite of sensors and a camera to actively monitor gardens and plants in order to create a sense of community among those interested in interacting with their green friends.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+We aim to make plant care a **stress free and social catalyst** for all members of a shared community. Plant care and social interaction are considered an antidote to the everyday stresses we face with the busy, and ever changing tech infused world we live in.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+|     Example Feed     |           Full            |
+| :------------------: | :-----------------------: |
+| ![](README/feed.png) | ![](README/full_feed.png) |
