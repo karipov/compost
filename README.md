@@ -9,6 +9,7 @@ As our technology advances as a society, we tend to lose ourselves and connectio
 We aim to make plant care a **stress free and social catalyst** for all members of a shared community. Plant care and social interaction are considered an antidote to the everyday stresses we face with the busy, and ever changing tech infused world we live in.
 
 **Preview this app live:**
+
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](stackblitz.com/github/parivzvkg?file=readme.md)
 
 |     Example Feed     |           Full            |
