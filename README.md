@@ -1,4 +1,4 @@
-# <img src="public/logo.png" alt="Compost" height="40"> Compost
+# <img src="public/logo.png" alt="Compost" height="40"> ComPost
 
 ![](https://img.shields.io/badge/built%20with-love-red) ![](https://img.shields.io/badge/license-MIT-blue)
 
