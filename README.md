@@ -10,7 +10,7 @@ We aim to make plant care a **stress free and social catalyst** for all members 
 
 **Preview this app live:**
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](stackblitz.com/github/karipov/compost)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/karipov/compost)
 
 |     Example Feed     |           Full            |
 | :------------------: | :-----------------------: |
